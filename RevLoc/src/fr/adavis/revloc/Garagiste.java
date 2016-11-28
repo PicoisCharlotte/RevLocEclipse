@@ -4,6 +4,7 @@ public class Garagiste {
 
 		private String nom;
 		private String adresse;
+		private String prenom;
 		
 		public Garagiste(String nom, String adresse) {
 			super();
