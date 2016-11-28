@@ -2,8 +2,9 @@ package fr.adavis.revloc;
 
 public class Garagiste {
 
-	public static void main(String[] args) {
+		private String nom;
+		private String adresse;
 		
-	}
+	
 	
 }
